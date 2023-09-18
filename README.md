@@ -1,10 +1,10 @@
 # 💫About Me :
 Hi 👋 My name is Tran Ngoc Chinh
 ================================
-AI ENGINEER at UIT
+BACKEND ENGINEER at UIT
 ------------------
 
-🌱 I’m currently learning Data Science at UIT-VNUHCM, Vietnam. I am interested in Data Science, Machine Learning, Big Data .
+🌱 I’m currently learning Big Data at UIT-VNUHCM, Vietnam. I am interested in Backend Engineer.
 
 * 🌍  I'm based in Phuong Dong Hoa, Tp. Di An, Tp.HCM
 * ✉️  You can contact me at [tnchinh03@gmail.com](mailto:tnchinh03@gmail.com)
